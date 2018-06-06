@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "stacker",
+    "name": "Stacker",
+    "description": "Makes items in your current slot a full stack",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "stacker.bjorn.ml",
+    "updateUrl": "",
+    "authorList": [
+      "Bjornskjald"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
